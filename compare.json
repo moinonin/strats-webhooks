@@ -425,7 +425,7 @@
 	    "name": "StrategyRegbot36",
 	    "positions": 16,
 	    "profit-drawdown-ratio": 43.56567242281528,
-	    "risk_percent": 1.0,
+	    "risk_percent": 1.00,
 	    "sharpe_ratio": 10.26943377923363,
 	    "stake_currency": "BTC",
 	    "stoploss": -0.16,
